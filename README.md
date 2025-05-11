@@ -1,11 +1,11 @@
 
-# 🏫 School Vaccination Portal
+# School Vaccination Portal
 
 A full-stack web application to manage student vaccination drives in schools, built with **React.js** (frontend) and **Spring Boot** (backend).
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 school-vaccination-portal/
@@ -15,7 +15,7 @@ school-vaccination-portal/
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 
 ### Backend:
 - Java 17+
@@ -29,9 +29,9 @@ school-vaccination-portal/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
-### 🔧 Backend (Spring Boot)
+### Backend (Spring Boot)
 
 #### 1. Navigate to the backend folder - StudentVaccinationPortal
 ```bash
@@ -63,7 +63,7 @@ mvn clean install
 
 ---
 
-### 🌐 Frontend (React.js)
+### Frontend (React.js)
 
 #### 1. Navigate to the frontend folder - react-frontend
 ```bash
@@ -91,18 +91,18 @@ npm run dev
 
 ---
 
-## 🧪 Sample Features
+## Sample Features
 
-- ✅ Simulated login/authentication
-- 📊 Dashboard with vaccination stats
-- 🎓 Student and school management
-- 💉 Vaccination drive scheduling
-- 📥 CSV import
-- 🔍 Date validation & business rules
+- Simulated login/authentication
+- Dashboard with vaccination stats
+- Student and school management
+- Vaccination drive scheduling
+- CSV import
+- Date validation & business rules
 
 ---
 
-## 📬 API Base URL
+## API Base URL
 
 ```
 http://localhost:8082/
@@ -110,7 +110,7 @@ http://localhost:8082/
 
 ---
 
-## 📄 License
+## License
 
 Ishaan Pasricha
 
