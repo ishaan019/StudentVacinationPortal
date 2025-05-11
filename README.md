@@ -116,6 +116,6 @@ Ishaan Pasricha
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Pull requests and feature suggestions are welcome!
